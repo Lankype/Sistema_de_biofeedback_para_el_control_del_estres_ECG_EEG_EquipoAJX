@@ -37,7 +37,7 @@ Generar una interfaz con las siguientes especificaciones:
 
 # Requisitos para el funcionamiento del software 
 
-Python 3.11+
+Python 3.11+.
 Instalar las siguientes librerías:
 - Bioread
 - numpy
