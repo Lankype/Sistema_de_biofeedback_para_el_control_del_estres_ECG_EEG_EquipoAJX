@@ -82,4 +82,4 @@ La interfaz gráfica muestra al usuario:
 - la diferencia entre LF/HF
 -  la relación de la potencia alpha actual con la de la medida de calibración en porcentaje
 
-  
+"Estado de relajación.jpeg"
