@@ -32,7 +32,7 @@ Generar una interfaz con las siguientes especificaciones:
 - Sistema Biopac
 - Electrodos EEG
 - Electrodos ECG
-- Camputadora o laptop para procesamiento de las señales
+- Computadora o laptop para procesamiento de las señales
 
 
 # Requisitos para el funcionamiento del software 
