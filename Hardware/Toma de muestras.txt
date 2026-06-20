@@ -1,4 +1,4 @@
-# Toma de muestras del Hardware utilizado BIOPAC
+# Toma de muestras del Hardware utilizando BIOPAC
 ## Colocación de los electrodos
 ### El sujeto de pruebas debe de colocarse los electrodos del ECG de la siguiente manera: 
 Electrodo 1:  Debajo de la clavícula derecha(V-). 
