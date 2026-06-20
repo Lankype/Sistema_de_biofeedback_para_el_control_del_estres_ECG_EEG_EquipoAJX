@@ -16,6 +16,6 @@ Al finalizar la toma, en la esquina superior izquierda se selecciona cómo guard
 
 Para tomar la segunda muestra, la que tendrá la toma en estado de relajación y estresado, se dará click en el botón de retroceso para borrar los datos previamente tomados en la aplicación. 
 
-Después, se seleccionará el menú "MP36 en la parte superior de la interfaz y se elegirá la primera opción para modificar la ventana del principio. 
+Después, se seleccionará el menú "MP36" en la parte superior de la interfaz y se elegirá la primera opción para modificar la ventana del principio. 
 Se cambiará el tiempo de toma de muestra a 2 minutos y se cerrará la primera ventana. 
 Para comenzar la última medición, se dará click en el botón iniciar y finalizará en el tiempo establecido. Al igual que la calibración, se guardará el archivo en la carpeta de Python.
