@@ -1,0 +1,6 @@
+Para que el codigo funcione de manera optima es necesario la siguiente librerías
+bioread
+numpy
+scipy
+PyQt5
+pyqtgraph
